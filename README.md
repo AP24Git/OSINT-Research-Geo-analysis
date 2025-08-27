@@ -3,7 +3,7 @@ A repository for Geopolitical and Geo-Economic Open-Source Intelligence (OSINT) 
 # Geopolitical & Geoeconomic OSINT Research
 A repository for projects, methodologies, and tools related to OSINT analysis, with a focus on Geopolitical and Geoeconomic trends.
 ## Repository Structure
-/Projects # Contrains individual OSINT investigation reports and data
+/Projects # Contains individual OSINT investigation reports and data
 /Methodologies # Templates and frameworks for analysis (e.g., PIR, Intelligence Requirements)
 /Tools # Scripts and utilities for data collection and processing
 ## Skills & Tooling
